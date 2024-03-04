@@ -1,0 +1,10 @@
+- **Question**: 1. How much AScribe Worx charges per word?
+   - **Answer**: AScribe charges 2 rupees(INR) per word.
+- **Question**: 2. Do you provide one day content delivery?
+   - **Answer**: Yes, we provide 1-day content delivery as a part of our premium package or chargeable on-demand service(with nominal extra fee). 
+- **Question**: 3. What is your maximum time to deliver the content?
+    - **Answer**: At AScribe Worx, the maximum time to deliver a content is 3 days.
+- **Question**: 4. Do you take bulk orders on priority?
+    - **Answer**:  Yes, we take all our orders on priority.
+- **Question**: 5. Do you provide proof-reading services for your content?
+    - **Answer**: Yes, proof-reading is complimentary with our premium and standard packages but we also provide on-demand proof-reading services with nominal extra-fee. 
